@@ -22,7 +22,6 @@
 #
 # Observações
 # - Se os PDFs forem imagens (scans), será necessário OCR (ex.: tesseract).
-# - O cabeçalho README está comentado; edite este bloco no topo se desejar.
 ###################
   ## FUNÇÃO UNIFICADA: ler_pdf
   ## Lê um PDF a partir de um caminho (string) ou de um raw vector com dados PDF.
